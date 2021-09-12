@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div {
+    width: 200px;
+    height: 100px;
+    background-color: aquamarine;
+    margin: 1em;
+    border: 5px solid rgb(20, 95, 73)
+}
